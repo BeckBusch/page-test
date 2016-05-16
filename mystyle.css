@@ -1,2 +1,4 @@
 * {color: red;}
-* :hover {color: blue;}
+* :hover {color: blue;
+          font-size: large;
+}
