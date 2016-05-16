@@ -1,1 +1,1 @@
-document.getElementById("hello").addEventListener("click", alert('hi'));
+fire.addEventListener("click", function(){ alert("Hello World!"); });
