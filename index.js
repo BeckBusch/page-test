@@ -1,1 +1,1 @@
-document.getElementById("hello").addEventListener("click", alert("hi");
+document.getElementById("hello").addEventListener("click", alert(hi');
